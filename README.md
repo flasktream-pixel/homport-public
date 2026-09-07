@@ -1,17 +1,17 @@
-# Ghi chép công khai từ dự án Homport
+# Homport — public notes
 
-Repo này chỉ chứa phần kiến thức tách rời được, viết để dùng lại ở dự án khác. Mã nguồn sản phẩm nằm ở repo riêng.
+This repository holds the parts of the Homport project that stand on their own and are worth sharing. The product source lives in a private repository.
 
-## Nội dung
+## Contents
 
-- [`docs/oauth-cloudflare-desktop.md`](docs/oauth-cloudflare-desktop.md) — luồng OAuth của Cloudflare cho ứng dụng desktop: public client, PKCE, không có refresh token, cách bắt callback trên loopback, sáu quyền cần xin và ý nghĩa thật của từng quyền, những chỗ dễ sai và cách phát hiện. Mọi điều trong tài liệu đã chạy thật trên tài khoản Cloudflare thật; chỗ nào chưa kiểm chứng đều được đánh dấu rõ.
+- [`docs/oauth-cloudflare-desktop.md`](docs/oauth-cloudflare-desktop.md) — Cloudflare's OAuth flow for a **desktop** application: public client, PKCE, no client secret, no refresh token, catching the callback on loopback, the six scopes you need and what each one actually grants, the traps and how to spot them. Everything in it was run against a real Cloudflare account; anything not verified in practice is marked as such.
 
-## Về Homport
+## About Homport
 
-Homport là ứng dụng Windows biến một web app đang chạy trên máy bạn thành một địa chỉ web riêng tư, dùng Cloudflare Tunnel và Cloudflare Access. Ứng dụng chạy trên tài khoản Cloudflare của chính người dùng, không có máy chủ của nhà phát triển, không thu thập dữ liệu.
+Homport is a Windows application that turns a web app running on your PC into a private web address, using Cloudflare Tunnel and Cloudflare Access. It runs on your own Cloudflare account. There is no developer backend and no telemetry.
 
-Đây là ứng dụng độc lập, không liên kết với Cloudflare, Inc.
+Independent third-party app, not affiliated with Cloudflare, Inc.
 
-## Giấy phép
+## License
 
-Xem [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
