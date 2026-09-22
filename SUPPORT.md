@@ -2,7 +2,7 @@
 
 Visit [Homport support](https://homport.dev/support/) or email [support@homport.dev](mailto:support@homport.dev).
 
-For general questions, start with [Getting started](docs/getting-started.md) and the [FAQ](docs/faq.md). The Microsoft Store release is being prepared; current availability is shown on [homport.dev](https://homport.dev/).
+For general questions, start with [Getting started](docs/getting-started.md) and the [FAQ](docs/faq.md). Homport is available on [Microsoft Store](https://apps.microsoft.com/detail/9PGG4B8DNL6B). Install updates through the Store before reporting a problem.
 
 ## Reporting a problem
 

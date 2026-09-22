@@ -10,9 +10,13 @@ Homport is a Windows app that gives a compatible web app running on your PC a we
 
 *Actual Homport app with illustrative demo data. Explore the animated sharing walkthrough on [homport.dev](https://homport.dev/).*
 
-## Availability
+## Get Homport
 
-The first release will be **free**, distributed through the **Microsoft Store**. Store publication is being prepared; this repository does not offer an installer or announce a released version. Check the [website](https://homport.dev/) for availability. Domain registration and any Cloudflare charges are separate.
+**Homport 1.0.1 is available now on [Microsoft Store](https://apps.microsoft.com/detail/9PGG4B8DNL6B).** The first release is free for Windows 10 / 11 (x64). Released on 22 September 2026. Domain registration and any Cloudflare charges are separate.
+
+[![Get it from Microsoft](https://homport.dev/images/microsoft-store-badge.svg)](https://apps.microsoft.com/detail/9PGG4B8DNL6B)
+
+Install and update through Microsoft Store. This repository contains documentation, not installer downloads.
 
 ## From your PC to their browser
 

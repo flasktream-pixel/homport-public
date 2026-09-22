@@ -2,11 +2,11 @@
 
 ## Is Homport available now?
 
-The Microsoft Store release is being prepared. The [website](https://homport.dev/) has a product walkthrough and current availability information. There is no GitHub installer download.
+Yes. [Get Homport on Microsoft Store](https://apps.microsoft.com/detail/9PGG4B8DNL6B) for Windows 10 / 11 (x64). The [website](https://homport.dev/) has an interactive product walkthrough. Install and update through Microsoft Store.
 
 ## Is it free?
 
-The first release will be free. Domain registration and any Cloudflare charges are separate. Pricing for later releases has not been announced.
+The first release is free. Domain registration and any Cloudflare charges are separate. Pricing for later releases has not been announced.
 
 ## What does a shared link open?
 

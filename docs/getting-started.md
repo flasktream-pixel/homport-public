@@ -1,6 +1,6 @@
 # Getting started with Homport
 
-Homport's Microsoft Store release is being prepared. This guide describes the intended first-release workflow. Visit [homport.dev](https://homport.dev/) for current availability and an interactive demonstration.
+Install [Homport from Microsoft Store](https://apps.microsoft.com/detail/9PGG4B8DNL6B). The first release is free. Visit [homport.dev](https://homport.dev/) for an interactive demonstration.
 
 ## Before you start
 

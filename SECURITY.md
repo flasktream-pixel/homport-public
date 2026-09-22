@@ -6,4 +6,4 @@ Include the affected Homport version, a description of the issue, its potential 
 
 Only test systems and accounts you own or have permission to test. Homport is independent of Cloudflare; issues in Cloudflare itself should be reported through Cloudflare's own security reporting process.
 
-The first Microsoft Store release is being prepared. No supported-version schedule or response-time commitment has been published yet.
+Homport 1.0.1 is available on [Microsoft Store](https://apps.microsoft.com/detail/9PGG4B8DNL6B). Install updates through Microsoft Store. No supported-version schedule or response-time commitment has been published yet.
